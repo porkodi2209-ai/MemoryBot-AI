@@ -1,4 +1,4 @@
-# MemoryBot AI – Local LLM Chatbot with LangChain Memory
+# MemoryBot AI 
 
 ## Project Description
 
@@ -100,12 +100,11 @@ AI: Your favourite colour is blue.
 ## DEMO
 ## Screenshot
 
-<img width="1920" height="1080" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/149887fb-37d6-44be-858b-f6fd35364184" />
+<img width="1920" height="1005" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/0fed4dd2-76cf-4c8a-9b80-0b133367de2a" />
 
-<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/3efaccbe-a45c-4100-9026-ce5ab11e9a71" />
+<img width="1920" height="1000" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/d986284b-e86b-4dcf-8a48-e7a8998d6f05" />
 
-<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/ab3eea30-f5e2-4b6b-a4c9-a5df81a80d00" />
-
+<img width="1920" height="1013" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/ad60890b-f615-4fe7-95d9-859e30c6afbc" />
 
 ## Limitations
 
