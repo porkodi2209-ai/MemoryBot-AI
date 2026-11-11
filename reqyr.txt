@@ -1,0 +1,6 @@
+- Python 
+- Streamlit
+- LangChain 
+- Ollama 
+- Qwen 2.5 (1.5B) 
+- InMemoryChatMessageHistory
